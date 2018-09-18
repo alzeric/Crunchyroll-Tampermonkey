@@ -2,7 +2,7 @@
 ### Description: 
 Themes CrunchyRoll (Dark) and enlarges the player
 
-
+### Customization:
 You can edit these values to get just the right look you want
 
 ```javascript
