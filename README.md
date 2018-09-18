@@ -1,4 +1,5 @@
 # Crunchyroll-Tampermonkey
+###Description: 
 Themes CrunchyRoll (Dark) and enlarges the player
 
 
