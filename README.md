@@ -14,8 +14,8 @@ var linkColor = '#F47521';
 var linkColor2 = '#28A2D8';
 ```
 
-#Screenshot #1 (Website Dark Theme)
+### Screenshot #1 (Website Dark Theme)
 ![Image of Dark Theme](https://i.imgur.com/5Yil5rq.png)
 
-#Screenshot #2 (Enlarged Video Player 1920x1080)
+### Screenshot #2 (Enlarged Video Player 1920x1080)
 ![Image of Video Player](https://i.imgur.com/UttPyS2.jpg)
